@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Sharma
 - 👀 I’m interested in Javascript and JS based libraries/frameworks
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently Exploring Node and AWS
 - 💞️ I’m looking to collaborate on Full stack projects
 - 📫 How to reach me - You can reach me to +91 8295607434
 
